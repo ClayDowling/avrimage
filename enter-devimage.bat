@@ -1,1 +1,1 @@
-docker attach avrimage
+docker attach avrdev

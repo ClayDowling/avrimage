@@ -1,1 +1,1 @@
-docker run --name avrdev -v /C/Users/clay/workspace/avrimage:/code -t -i genesyssheetdev /bin/bash
+docker run --name avrdev -v /C/Users/clay/workspace/avrimage:/code -t -i avrimage /bin/bash
